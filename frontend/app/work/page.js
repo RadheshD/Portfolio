@@ -1,0 +1,2 @@
+import { Label, WorkCollection } from "../components";
+export default function Work(){return <main className="simple-page section-wrap"><Label number="02">THE FULL COLLECTION</Label><div className="page-title"><h1>Useful machines,<br/><span>carefully made.</span></h1><p>Production builds and academic experiments, collected in one curious little workspace.</p></div><div style={{marginTop:70}}><WorkCollection /></div></main>}

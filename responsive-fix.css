@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+  .hero {
+    overflow: hidden;
+  }
+
+  .skills-grid {
+    min-width: 0;
+  }
+
+  .garden {
+    min-width: 0;
+    overflow: hidden;
+  }
+}
