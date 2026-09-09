@@ -90,5 +90,3 @@ npm run start
 	"message": "I would like to discuss a project."
 }
 ```
-
-Names must be 2-100 characters, messages 10-5000 characters, and emails must be valid. The API currently allows browser requests from local frontend origins on ports 3000.
