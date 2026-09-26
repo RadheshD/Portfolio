@@ -1,6 +1,6 @@
 # Radhesh Dahagam Portfolio
 
-Personal portfolio for Radhesh Dahagam, an AI/ML Engineer building production-ready systems. The repository contains a Next.js portfolio frontend and a small FastAPI service that receives contact form submissions.
+Portfolio for Radhesh Dahagam, an AI/ML Engineer building production-ready systems. The repository contains a Next.js portfolio frontend and a small FastAPI service that receives contact form submissions.
 
 ## Project Structure
 
